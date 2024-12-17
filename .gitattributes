@@ -1,0 +1,4 @@
+data/cnnsum_L_16k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/cnnsum_XL_32k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/cnnsum_XXL_64k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/cnnsum_XXXL_128k.jsonl filter=lfs diff=lfs merge=lfs -text
