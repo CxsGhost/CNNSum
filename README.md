@@ -1,5 +1,7 @@
 # **CNNSum: Exploring Long-Context Summarization with Large Language Models in Chinese Novels**
 
+[Paper](https://arxiv.org/abs/2412.02819)
+
 #### **[2024.12.17] - CNNSum Dataset Release!**
 
 We are excited to announce the release of the **CNNSum dataset**!
