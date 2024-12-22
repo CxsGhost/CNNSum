@@ -1,6 +1,6 @@
 # **CNNSum: Exploring Long-Context Summarization with Large Language Models in Chinese Novels**
 
-[Paper](https://arxiv.org/abs/2412.02819)    [Huggingface Datasets](https://huggingface.co/datasets/CxsGHost/CNNSum)
+[Paper](https://arxiv.org/abs/2412.02819）\t [Huggingface Datasets](https://huggingface.co/datasets/CxsGHost/CNNSum)
 
 #### **[2024.12.17] - CNNSum Dataset Release!**
 
