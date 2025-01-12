@@ -2,6 +2,7 @@
 
 [Paper](https://arxiv.org/abs/2412.02819) &nbsp;&nbsp;&nbsp; [Huggingface Datasets](https://huggingface.co/datasets/CxsGHost/CNNSum)
 
+#### **[2025.1.12] - Add inference script!**
 #### **[2024.12.17] - CNNSum Dataset Release!**
 
 We are excited to announce the release of the **CNNSum dataset**!
